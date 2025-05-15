@@ -15,3 +15,10 @@ Este é um simples projeto desenvolvido em  'PHP' com conexão ao BD 'MYSQL', o 
 -MYSQL;	
 -HTML/CSS;	
 -XAMPP.	
+
+# Como Usar:
+-Faça Login com um usuário cadastrado;
+-Navegue até 'Cadastrar' para adicionar um novo item;
+-Vá em 'Listar' para ver todos os itens;
+-Utilize o 'Remover' para deletar um produto específico;
+-Use 'Logout' para encerrar a sessão.
