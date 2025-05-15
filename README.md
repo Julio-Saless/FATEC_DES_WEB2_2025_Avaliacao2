@@ -11,6 +11,7 @@ Este é um simples projeto desenvolvido em  'PHP' com conexão ao BD 'MYSQL', o 
 -Botão de retorno a tela de home.
 
 # Tecnologias utilizada:
--PHP;
--MYSQL;
--HTML/CSS.
+-PHP;	
+-MYSQL;	
+-HTML/CSS;	
+-XAMPP.	
